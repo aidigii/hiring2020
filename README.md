@@ -86,7 +86,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Electronic Arts|Not Cancelled|Remote|
 |Expedia|Not Cancelled||
 |Facebook|Not Cancelled|Decision to be given by Mid-April|
-|Fidelity Investments|Not Cancelled||
+|Fidelity Investments|Virtual||Duration cut to 9 weeks instead of 10-12
 |Garmin|Not Cancelled||
 |Gemography|Not Cancelled|Remote Internship|
 |Genentech|Not Cancelled|Evaluating the possibility of virtual internships with a final decision by April 10|
